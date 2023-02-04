@@ -1,3 +1,4 @@
+<--!index-->
 <?php
     require_once "Medicine.php";
     require_once "Cart.php";
